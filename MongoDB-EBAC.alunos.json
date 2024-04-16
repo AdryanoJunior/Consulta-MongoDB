@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "661c0c0867e2e3f89b7787dd"
+  },
+  "nome": "Fábio",
+  "nota": 7,
+  "curso": "QA"
+},
+{
+  "_id": {
+    "$oid": "661c0c8267e2e3f89b7787de"
+  },
+  "nome": "Alice",
+  "nota": 9,
+  "curso": "SQL"
+},
+{
+  "_id": {
+    "$oid": "661c0e6967e2e3f89b7787df"
+  },
+  "nome": "Mariana",
+  "cargo": "Professora",
+  "curso": [
+    "QA",
+    "FrontEnd",
+    "MongoDB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "661c12bc67e2e3f89b7787e0"
+  },
+  "nome": "João",
+  "nota": 7,
+  "curso": "QA"
+},
+{
+  "_id": {
+    "$oid": "661c12dd67e2e3f89b7787e1"
+  },
+  "nome": "Paulo",
+  "nota": 5,
+  "curso": "Dev"
+},
+{
+  "_id": {
+    "$oid": "661c132767e2e3f89b7787e2"
+  },
+  "nome": "Maria",
+  "nota": 8,
+  "curso": "QA"
+},
+{
+  "_id": {
+    "$oid": "661c136567e2e3f89b7787e3"
+  },
+  "nome": "José",
+  "nota": 4,
+  "curso": "SQL"
+},
+{
+  "_id": {
+    "$oid": "661c13a367e2e3f89b7787e4"
+  },
+  "nome": "Ana",
+  "nota": 9,
+  "curso": "QA"
+},
+{
+  "_id": {
+    "$oid": "661c13ce67e2e3f89b7787e5"
+  },
+  "nome": "José Pedro",
+  "nota": 7,
+  "curso": "UX"
+}]
